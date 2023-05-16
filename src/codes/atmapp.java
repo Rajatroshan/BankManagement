@@ -141,7 +141,7 @@ public class atmapp extends javax.swing.JFrame {
         // TODO add your handling code here:
         if(jTextField1.getText().length()!=10)
         {
-            JOptionPane.showMessageDialog(null,"Enter a valid Phone Number");
+            JOptionPane.showMessageDialog(null,"Enter a valid Phone Number1");
         }
         else
         {
